@@ -1,0 +1,10 @@
+E:\Proyectos\Repositorios\Add running controls\Add running controls\bin\Debug\Add running controls.exe.config
+E:\Proyectos\Repositorios\Add running controls\Add running controls\bin\Debug\Add running controls.exe
+E:\Proyectos\Repositorios\Add running controls\Add running controls\bin\Debug\Add running controls.pdb
+E:\Proyectos\Repositorios\Add running controls\Add running controls\obj\Debug\Add running controls.csprojAssemblyReference.cache
+E:\Proyectos\Repositorios\Add running controls\Add running controls\obj\Debug\Add_running_controls.Form1.resources
+E:\Proyectos\Repositorios\Add running controls\Add running controls\obj\Debug\Add_running_controls.Properties.Resources.resources
+E:\Proyectos\Repositorios\Add running controls\Add running controls\obj\Debug\Add running controls.csproj.GenerateResource.cache
+E:\Proyectos\Repositorios\Add running controls\Add running controls\obj\Debug\Add running controls.csproj.CoreCompileInputs.cache
+E:\Proyectos\Repositorios\Add running controls\Add running controls\obj\Debug\Add running controls.exe
+E:\Proyectos\Repositorios\Add running controls\Add running controls\obj\Debug\Add running controls.pdb
